@@ -1,0 +1,40 @@
+Manifest-Version: 1.0
+Main-Class: org.example.Main
+Class-Path: netty-transport-native-kqueue-4.1.92.Final.jar commons-math3
+ -3.6.1.jar opentelemetry-sdk-extension-autoconfigure-spi-1.26.0.jar err
+ or_prone_annotations-2.11.0.jar netty-transport-native-epoll-4.1.92.Fin
+ al.jar selenium-support-4.11.0.jar selenium-api-4.11.0.jar netty-resolv
+ er-4.1.92.Final.jar curvesapi-1.07.jar netty-handler-4.1.92.Final.jar l
+ og4j-api-2.17.2.jar selenium-ie-driver-4.11.0.jar selenium-json-4.11.0.
+ jar opentelemetry-api-logs-1.26.0-alpha.jar reactive-streams-1.0.3.jar 
+ opentelemetry-api-events-1.26.0-alpha.jar opentelemetry-sdk-extension-a
+ utoconfigure-1.26.0-alpha.jar netty-transport-native-epoll-4.1.60.Final
+ -linux-x86_64.jar gson-2.8.6.jar SparseBitSet-1.2.jar netty-codec-4.1.9
+ 2.Final.jar selenium-devtools-v85-4.11.0.jar checker-qual-3.12.0.jar ne
+ tty-transport-classes-kqueue-4.1.92.Final.jar opentelemetry-sdk-trace-1
+ .26.0.jar opentelemetry-semconv-1.26.0-alpha.jar selenium-http-4.11.0.j
+ ar listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar selen
+ ium-firefox-driver-4.11.0.jar netty-transport-classes-epoll-4.1.92.Fina
+ l.jar slf4j-api-2.0.6.jar opentelemetry-api-1.26.0.jar netty-buffer-4.1
+ .92.Final.jar freemarker-2.3.30.jar selenium-devtools-v115-4.11.0.jar s
+ elenium-chrome-driver-4.11.0.jar netty-common-4.1.92.Final.jar netty-ha
+ ndler-proxy-4.1.60.Final.jar opentelemetry-exporter-logging-1.26.0.jar 
+ netty-transport-native-kqueue-4.1.60.Final-osx-x86_64.jar failsafe-3.3.
+ 1.jar netty-transport-native-unix-common-4.1.92.Final.jar opentelemetry
+ -sdk-metrics-1.26.0.jar xmlbeans-5.0.3.jar commons-io-2.11.0.jar netty-
+ reactive-streams-2.0.4.jar rxjava-3.0.4.jar opentelemetry-sdk-common-1.
+ 26.0.jar commons-collections4-4.4.jar lombok-1.18.12.jar poi-ooxml-lite
+ -5.2.2.jar auto-service-annotations-1.0.1.jar selenium-chromium-driver-
+ 4.11.0.jar commons-codec-1.15.jar netty-transport-4.1.92.Final.jar sele
+ nium-safari-driver-4.11.0.jar selenium-java-4.11.0.jar netty-codec-http
+ -4.1.92.Final.jar opentelemetry-extension-incubator-1.26.0-alpha.jar js
+ r305-3.0.2.jar opentelemetry-sdk-logs-1.26.0-alpha.jar selenium-devtool
+ s-v113-4.11.0.jar async-http-client-netty-utils-2.12.3.jar opentelemetr
+ y-sdk-1.26.0.jar commons-compress-1.21.jar selenium-manager-4.11.0.jar 
+ poi-ooxml-5.2.2.jar jakarta.activation-1.2.2.jar selenium-remote-driver
+ -4.11.0.jar commons-exec-1.3.jar j2objc-annotations-1.3.jar guava-31.1-
+ jre.jar async-http-client-2.12.3.jar netty-codec-socks-4.1.60.Final.jar
+  selenium-edge-driver-4.11.0.jar byte-buddy-1.14.4.jar failureaccess-1.
+ 0.1.jar selenium-devtools-v114-4.11.0.jar opentelemetry-context-1.26.0.
+ jar poi-5.2.2.jar extentreports-5.0.9.jar
+
